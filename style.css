@@ -226,7 +226,7 @@ span {
     background-image: url('asset/Rectangle 9.png');
     background-repeat: no-repeat;
     background-position: center;
-    padding: 122px 287px;
+    padding: 122px 287px; 
 }
 
 .subscribe-section {
@@ -262,4 +262,43 @@ span {
     padding-left: 10px;
     margin-right: 5px;
 
+}
+
+/* footer section related styles */
+
+footer {
+    height: 50vh;
+    background: #111010;
+    text-align: center;
+    margin-top: -110px;
+
+}
+
+.footer-section {
+    padding: 130px 650px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+span {
+    color: #FFFFFF;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+
+.footer-end {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
